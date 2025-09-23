@@ -1,4 +1,4 @@
-PUBG Ban Checker GUI – How to Download & Run
+Ban Checker for PUBG GUI – How to Download & Run
 
 Go to the Releases page for latest version
 Extract the .zip file to any folder on your computer.
