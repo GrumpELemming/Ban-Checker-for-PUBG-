@@ -1,37 +1,28 @@
-# PUBG-BAN-CHECKER
-Checks if a PUBG player is temporarily or permanently banned.
+PUBG Ban Checker GUI – How to Download & Run
+📥 Download
 
-PUBG Ban Checker – User Guide
+Go to the Releases page for latest version
 
-What it does: Checks if a PUBG player is temporarily or permanently banned.
+Extract the .zip file to any folder on your computer.
 
-How to use:
+Right-click → Extract All... (Windows built-in).
 
-Run ban_checker_gui.exe.
+⚠️ Note: Ignore the “Source code” downloads – those are for developers. Only grab the .zip.
 
-Enter the player name(case sensitive)
+▶️ Run the Program
 
-Select the platform (steam, xbox, or psn).
+Open the extracted folder.
 
-Click Check Ban Status.
+Double-click ban_checker_gui.exe.
 
-The result will display below the buttons.
+Enter your PUBG player name and platform.
 
-Optionally, click Copy Status to copy it to your clipboard.
+Click Check Ban – results will display in the window.
 
-Notes:
+🔒 Safety Note
 
-Requires an internet connection; the EXE communicates with the backend server.
+Windows SmartScreen may warn you since the app isn’t signed with a certificate.
 
-The API key is secured on the backend—your EXE does not contain it.
+Click More info → Run anyway to proceed.
 
-If the server is down or unreachable, you’ll see an error.
-
-Troubleshooting:
-
-Make sure the player name is spelled correctly(OR GUI RETURNS ERROR 404)
-
-Ensure you’re connected to the internet.
-
-If not working : test user name on pubglookup/op.gg/pubg-meta to see if player may have changed name
-
+This happens with most small open-source apps
