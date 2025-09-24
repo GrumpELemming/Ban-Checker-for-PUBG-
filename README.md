@@ -1,5 +1,12 @@
 Ban Checker for PUBG GUI – How to Download & Run
 
+Update: 24th September 2025 21.52pm 
+
+Currently Microsoft Defender is blocking this app saying it's a virus you can still choose to download it but to counter this 
+issue i have created a web version here https://grumpelemming.github.io/pubg-ban-checker-web/ so a lot easier to use this
+instead
+
+Update 23rd September 20205
 Go to the Releases page for latest version
 Extract the .zip file to any folder on your computer.
 Right-click → Extract All... (Windows built-in).
